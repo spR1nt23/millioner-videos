@@ -82,6 +82,8 @@ Kanal başlıkları (en yeniden eskiye), 13 Kasım 2026 itibarıyla:
 
 | # | Başlık | Tür | Yayın (İstanbul) |
 |---|---|---|---|
+| 0a | Over 100 Investors Said No to Canva (Melanie Perkins) | hikâye | 15 Kas 01:00 |
+| 0b | Is a 72-Month Car Loan a Trap? (48 vs 72 ay faiz) | finans | 14 Kas 20:00 |
 | 1 | He Gave Away His $3 Billion Company (Patagonia, Chouinard) | hikâye | 14 Kas 01:00 |
 | 2 | Got a Raise? Do This Before You Spend It (zammın yarısını biriktir) | finans | 13 Kas 20:00 |
 | 3 | He Started IKEA at 17 (Kamprad) | hikâye | 13 Kas 01:00 |
@@ -123,8 +125,8 @@ Kanal başlıkları (en yeniden eskiye), 13 Kasım 2026 itibarıyla:
 | 39 | Bill Gates: The College Dropout Who Built Microsoft | hikâye | ≤4 Kas |
 | 40 | Warren Buffett: Still in the Same Omaha House | hikâye | ≤4 Kas |
 
-Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard.
-Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı.
+Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins.
+Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi.
 
 **Yeni konu ekleyince bu tabloya satır ekle.**
 
