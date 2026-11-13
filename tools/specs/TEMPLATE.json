@@ -1,0 +1,6 @@
+{"name":"example_name","scenes":[
+{"type":"hook","title":"Short punchy question or claim","sub":"Small line under it","say":"One spoken sentence, under 3 seconds."},
+{"type":"stat","big":"$1,825","count":1825,"prefix":"$","label":"what the number means, one short line","say":"Spoken line that explains the number."},
+{"type":"bars","hl":1,"title":"Chart title","bars":[["Label A",54750,"$54.7K"],["Label B",172391,"$172K"]],"say":"Spoken line that compares the bars."},
+{"type":"cta","title":"One-line takeaway.","sub":"Follow for more money math","say":"Takeaway. Follow for more money math."}
+]}

@@ -1,0 +1,6 @@
+{"name":"ikea17","scenes":[
+{"type":"hook","title":"He started IKEA at 17","sub":"With a gift from his dad","say":"He started IKEA at seventeen."},
+{"type":"stat","big":"1943","label":"Ingvar Kamprad registers IKEA with a cash reward for good grades","say":"In nineteen forty three, Ingvar Kamprad used a cash reward from his father for good grades to start the company."},
+{"type":"stat","big":"1948","label":"after selling pens and wallets, IKEA starts selling furniture","say":"He sold pens and wallets first. Furniture only came five years later."},
+{"type":"cta","title":"Start small. Start now.","sub":"Follow for more founder stories","say":"Start small, but start. Follow for more founder stories."}
+]}

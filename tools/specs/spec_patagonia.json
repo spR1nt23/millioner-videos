@@ -1,0 +1,6 @@
+{"name":"patagonia3b","scenes":[
+{"type":"hook","title":"He gave away his $3 billion company","sub":"Patagonia's founder","say":"He gave away his three billion dollar company."},
+{"type":"stat","big":"$3,000,000,000","label":"Patagonia's estimated value in 2022","say":"In twenty twenty two, Patagonia was worth about three billion dollars."},
+{"type":"stat","big":"100%","label":"of the family's ownership moved to a trust and a climate nonprofit","say":"Yvon Chouinard and his family gave their ownership to a trust and a nonprofit fighting climate change."},
+{"type":"cta","title":"What would you do with $3 billion?","sub":"Follow for more founder stories","say":"What would you do? Follow for more founder stories."}
+]}

@@ -1,0 +1,6 @@
+{"name":"match401k","scenes":[
+{"type":"hook","title":"Skipping your 401(k) match is skipping free money","sub":"Here's the math","say":"If you skip your employer match, you're turning down free money."},
+{"type":"stat","big":"50%","count":50,"suffix":"%","label":"a common match: 50 cents per dollar, up to 6% of pay","say":"A common match is fifty cents for every dollar, up to six percent of your pay."},
+{"type":"bars","title":"On a $60,000 salary","bars":[["You put in",3600,"$3,600"],["With the match",5400,"$5,400"]],"say":"On sixty thousand, you put in thirty six hundred. Your employer adds eighteen hundred more."},
+{"type":"cta","title":"Always grab the full match.","sub":"Follow for more money math","say":"That's an instant fifty percent. Follow for more money math."}
+]}

@@ -1,0 +1,5 @@
+tools/models/
+tools/fonts/
+out/
+__pycache__/
+*.part

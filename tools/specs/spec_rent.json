@@ -1,0 +1,6 @@
+{"name":"rent30","scenes":[
+{"type":"hook","title":"How much rent can you actually afford?","sub":"The 30% rule","say":"How much rent can you actually afford?"},
+{"type":"stat","big":"$1,500","count":1500,"prefix":"$","label":"30% of a $5,000 monthly income, before taxes","say":"The common rule: keep housing under thirty percent of gross income. On five thousand a month, that's fifteen hundred."},
+{"type":"stat","big":"~50%","label":"of US renter households paid more than that in 2023","say":"In twenty twenty three, about half of American renters paid more than that."},
+{"type":"cta","title":"Know your number before you sign.","sub":"Follow for more money tips","say":"Know your number before you sign. Follow for more money tips."}
+]}

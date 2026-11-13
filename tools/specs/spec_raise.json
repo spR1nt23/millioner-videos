@@ -1,0 +1,6 @@
+{"name":"raisehalf","scenes":[
+{"type":"hook","title":"Got a raise? Do this first.","sub":"Before lifestyle creep wins","say":"Got a raise? Do this before you spend it."},
+{"type":"stat","big":"$2,500","count":2500,"prefix":"$","label":"a year: half of a $5,000 raise, saved","say":"Say you get a five thousand dollar raise. Save half. That's twenty five hundred a year."},
+{"type":"bars","title":"After 10 years at 7%","bars":[["Saved",25000,"$25K"],["Invested",34541,"$34.5K"]],"say":"Over ten years, that's twenty five thousand saved. Invested at seven percent, about thirty four and a half."},
+{"type":"cta","title":"Enjoy half. Invest half.","sub":"Follow for more money math","say":"Enjoy half, invest half. Follow for more money math."}
+]}

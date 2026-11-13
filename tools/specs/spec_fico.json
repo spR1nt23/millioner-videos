@@ -1,0 +1,6 @@
+{"name":"fico35","scenes":[
+{"type":"hook","title":"What actually builds your credit score?","sub":"The FICO breakdown","say":"Here's what actually builds your credit score."},
+{"type":"bars","hl":0,"title":"Your FICO Score","bars":[["On-time pay",35,"35%"],["Debt owed",30,"30%"],["History",15,"15%"],["New credit",10,"10%"],["Mix",10,"10%"]],"say":"Paying on time is thirty five percent. How much you owe is thirty. The rest is history, new credit, and mix."},
+{"type":"stat","big":"65%","count":65,"suffix":"%","label":"comes from just two habits: pay on time, keep balances low","say":"So two habits drive sixty five percent. Pay on time, and keep balances low."},
+{"type":"cta","title":"Never miss a payment.","sub":"Follow for more money tips","say":"Set up autopay. Follow for more money tips."}
+]}

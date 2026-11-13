@@ -1,0 +1,6 @@
+{"name":"airbnb_cereal","scenes":[
+{"type":"hook","title":"Cereal saved Airbnb","sub":"The 2008 story","say":"In two thousand eight, Airbnb was broke. Cereal saved it."},
+{"type":"stat","big":"$40","count":40,"prefix":"$","label":"per box of 'Obama O's' and 'Cap'n McCain's'","say":"The founders made election themed cereal boxes and sold them for forty dollars each."},
+{"type":"stat","big":"$30,000","count":30000,"prefix":"$","label":"raised to keep the company alive","say":"They raised about thirty thousand dollars. Then Y Combinator invested, impressed by the hustle."},
+{"type":"cta","title":"Resourcefulness beats resources.","sub":"Follow for more founder stories","say":"Get creative. Follow for more founder stories."}
+]}

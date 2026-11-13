@@ -1,0 +1,6 @@
+{"name":"fee1pct","scenes":[
+{"type":"hook","title":"A tiny 1% fee can cost you $187K","sub":"Here's how","say":"A tiny one percent fee could cost you almost two hundred thousand dollars."},
+{"type":"stat","big":"$100,000","count":100000,"prefix":"$","label":"invested for 30 years","say":"Say you invest one hundred thousand for thirty years."},
+{"type":"bars","title":"After 30 years","bars":[["With a 1% fee",574349,"$574K"],["7% return",761226,"$761K"]],"say":"At seven percent, it grows to seven sixty one thousand. Lose one percent to fees, and it's only five seventy four."},
+{"type":"cta","title":"Check what you pay in fees.","sub":"Follow for more money math","say":"Check your fees. Follow for more money math."}
+]}
