@@ -82,6 +82,8 @@ Kanal başlıkları (en yeniden eskiye), 13 Kasım 2026 itibarıyla:
 
 | # | Başlık | Tür | Yayın (İstanbul) |
 |---|---|---|---|
+| 0g | Nvidia Was Born in a Denny's Booth (1993, $5T) | hikâye | 18 Kas 01:00 |
+| 0h | Claim Social Security at 62? Waiting Pays 77% More (62 vs 70) | finans | 17 Kas 20:00 |
 | 0e | Denied a US Visa 8 Times, Then He Built Zoom (Eric Yuan) | hikâye | 17 Kas 01:00 |
 | 0f | Your HSA Could Grow to $415K (HSA 2026 limiti $4,400, 30 yıl) | finans | 16 Kas 20:00 |
 | 0c | Facebook Rejected Him, Then Bought His App (WhatsApp, Brian Acton) | hikâye | 16 Kas 01:00 |
@@ -129,8 +131,8 @@ Kanal başlıkları (en yeniden eskiye), 13 Kasım 2026 itibarıyla:
 | 39 | Bill Gates: The College Dropout Who Built Microsoft | hikâye | ≤4 Kas |
 | 40 | Warren Buffett: Still in the Same Omaha House | hikâye | ≤4 Kas |
 
-Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins, WhatsApp/Brian Acton, Zoom/Eric Yuan.
-Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi, IRA'ya 10 yıl geç başlamak (2026 limiti $7,500), HSA'yı yatırım hesabı gibi kullanmak (2026 limiti $4,400).
+Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins, WhatsApp/Brian Acton, Zoom/Eric Yuan, Nvidia/Jensen Huang (Denny's).
+Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi, IRA'ya 10 yıl geç başlamak (2026 limiti $7,500), HSA'yı yatırım hesabı gibi kullanmak (2026 limiti $4,400), Sosyal Güvenlik 62 vs 70 yaşında başvuru (%70 vs %124).
 
 **Yeni konu ekleyince bu tabloya satır ekle.**
 
