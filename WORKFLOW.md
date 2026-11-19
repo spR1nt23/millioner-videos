@@ -78,10 +78,12 @@ Python ≥ 3.10. Test edildi: Python 3.13, ffmpeg 6.1, temiz venv – kurulum ~1
 
 ## 4. Geçmiş konular (kanalda olan – TEKRARLAMA)
 
-Kanal başlıkları (en yeniden eskiye), 19 Kasım 2026 itibarıyla (planlananlar dahil):
+Kanal başlıkları (en yeniden eskiye), 20 Kasım 2026 itibarıyla (planlananlar dahil):
 
 | # | Başlık | Tür | Yayın (İstanbul) |
 |---|---|---|---|
+| 0n | HP Started With $538 in a Garage (Hewlett & Packard, Palo Alto garajı, yazı-tura, Disney 8 osilatör) | hikâye | 21 Kas 01:00 |
+| 0m | The Average Tax Refund Was $3,276. Is That Good? (IRS 2026 sezonu 8 Mayıs'a kadar ort. iade, ≈$273/ay, W-4) | finans | 20 Kas 20:00 |
 | 0l | He Bought a Closed Factory From an Ad. It Became Chobani (Hamdi Ulukaya, 2005 Kraft fabrikası, 2016 %10 çalışanlara) | hikâye | 20 Kas 01:00 |
 | 0k | 90% of Pro Fund Managers Lost to the S&P 500 (SPIVA 2025: 15 yıl %90, 20 yıl %93, 2025 %79) | finans | 19 Kas 20:00 |
 | 0j | 217 Investors Said No. Then He Bought Starbucks (Howard Schultz, 242 pitches, 1987 $3.8M) | hikâye | 19 Kas 01:00 |
@@ -135,8 +137,8 @@ Kanal başlıkları (en yeniden eskiye), 19 Kasım 2026 itibarıyla (planlananla
 | 39 | Bill Gates: The College Dropout Who Built Microsoft | hikâye | ≤4 Kas |
 | 40 | Warren Buffett: Still in the Same Omaha House | hikâye | ≤4 Kas |
 
-Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins, WhatsApp/Brian Acton, Zoom/Eric Yuan, Nvidia/Jensen Huang (Denny's), Starbucks/Howard Schultz (242 pitch, 217 ret), Chobani/Hamdi Ulukaya (Kraft fabrikası, %10 hisse).
-Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi, IRA'ya 10 yıl geç başlamak (2026 limiti $7,500), HSA'yı yatırım hesabı gibi kullanmak (2026 limiti $4,400), Sosyal Güvenlik 62 vs 70 yaşında başvuru (%70 vs %124), 30 vs 15 yıllık mortgage toplam faizi ($300K, %6,5 varsayımsal: $383K vs $170K), aktif fonlar vs S&P 500 (SPIVA Year-End 2025: 15 yıl %90, 20 yıl %93).
+Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins, WhatsApp/Brian Acton, Zoom/Eric Yuan, Nvidia/Jensen Huang (Denny's), Starbucks/Howard Schultz (242 pitch, 217 ret), Chobani/Hamdi Ulukaya (Kraft fabrikası, %10 hisse), HP/Hewlett & Packard ($538 garaj).
+Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi, IRA'ya 10 yıl geç başlamak (2026 limiti $7,500), HSA'yı yatırım hesabı gibi kullanmak (2026 limiti $4,400), Sosyal Güvenlik 62 vs 70 yaşında başvuru (%70 vs %124), 30 vs 15 yıllık mortgage toplam faizi ($300K, %6,5 varsayımsal: $383K vs $170K), aktif fonlar vs S&P 500 (SPIVA Year-End 2025: 15 yıl %90, 20 yıl %93), vergi iadesi = faizsiz borç (IRS 2026 ort. iade $3,276 ≈ $273/ay, W-4 stopajı).
 
 **Yeni konu ekleyince bu tabloya satır ekle.**
 
