@@ -78,10 +78,12 @@ Python ≥ 3.10. Test edildi: Python 3.13, ffmpeg 6.1, temiz venv – kurulum ~1
 
 ## 4. Geçmiş konular (kanalda olan – TEKRARLAMA)
 
-Kanal başlıkları (en yeniden eskiye), 21 Kasım 2026 itibarıyla (planlananlar dahil):
+Kanal başlıkları (en yeniden eskiye), 22 Kasım 2026 itibarıyla (planlananlar dahil):
 
 | # | Başlık | Tür | Yayın (İstanbul) |
 |---|---|---|---|
+| 0r | His Game Failed. Its Chat Tool Became Slack (Stewart Butterfield, Glitch 2012'de kapandı, iç sohbet aracı → Slack; Salesforce 2020'de $27.7B, kapanış Tem 2021) | hikâye | 23 Kas 01:00 |
+| 0q | Your Savings Account May Earn Just 0.38% (FDIC ulusal ort. tasarruf faizi Ekim 2026 %0,38; $10K → $38/yıl vs varsayımsal %4 → $400) | finans | 22 Kas 20:00 |
 | 0p | Michael Dell Started With $1,000 in a Dorm Room (1984 PC's Limited, 19 yaş, UT Austin; 1992 Fortune 500'ün en genç CEO'su, 27) | hikâye | 22 Kas 01:00 |
 | 0o | Your 401(k) Limit Just Went Up for 2027 (IR-2026-136: $24.5K→$25.5K; +$1K/yıl, 30 yıl, varsayımsal %7 ≈ $94K) | finans | 21 Kas 20:00 |
 | 0n | HP Started With $538 in a Garage (Hewlett & Packard, Palo Alto garajı, yazı-tura, Disney 8 osilatör) | hikâye | 21 Kas 01:00 |
@@ -139,8 +141,8 @@ Kanal başlıkları (en yeniden eskiye), 21 Kasım 2026 itibarıyla (planlananla
 | 39 | Bill Gates: The College Dropout Who Built Microsoft | hikâye | ≤4 Kas |
 | 40 | Warren Buffett: Still in the Same Omaha House | hikâye | ≤4 Kas |
 
-Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins, WhatsApp/Brian Acton, Zoom/Eric Yuan, Nvidia/Jensen Huang (Denny's), Starbucks/Howard Schultz (242 pitch, 217 ret), Chobani/Hamdi Ulukaya (Kraft fabrikası, %10 hisse), HP/Hewlett & Packard ($538 garaj), Dell/Michael Dell ($1,000 yurt odası, 27 yaşında Fortune 500).
-Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi, IRA'ya 10 yıl geç başlamak (2026 limiti $7,500), HSA'yı yatırım hesabı gibi kullanmak (2026 limiti $4,400), Sosyal Güvenlik 62 vs 70 yaşında başvuru (%70 vs %124), 30 vs 15 yıllık mortgage toplam faizi ($300K, %6,5 varsayımsal: $383K vs $170K), aktif fonlar vs S&P 500 (SPIVA Year-End 2025: 15 yıl %90, 20 yıl %93), vergi iadesi = faizsiz borç (IRS 2026 ort. iade $3,276 ≈ $273/ay, W-4 stopajı), 2027 401(k) limiti artışı ($25,500, +$1,000 → 30 yılda ≈$94K varsayımsal %7; 2027 50+ catch-up $8,500, IRA $7,500 sabit).
+Kullanılmış kişiler/şirketler (kısa liste): Buffett, Jobs/Apple, Bezos/Amazon, Gates/Microsoft, Musk/Zip2, Oprah, Jack Ma/Alibaba, Mark Cuban, Henry Ford, Walt Disney, J.K. Rowling, Colonel Sanders/KFC, Ray Kroc/McDonald's, Sara Blakely/Spanx, Nike/Phil Knight, Sam Walton/Walmart, Airbnb, Dyson, Instagram, IKEA/Kamprad, Patagonia/Chouinard, Canva/Melanie Perkins, WhatsApp/Brian Acton, Zoom/Eric Yuan, Nvidia/Jensen Huang (Denny's), Starbucks/Howard Schultz (242 pitch, 217 ret), Chobani/Hamdi Ulukaya (Kraft fabrikası, %10 hisse), HP/Hewlett & Packard ($538 garaj), Dell/Michael Dell ($1,000 yurt odası, 27 yaşında Fortune 500), Slack/Stewart Butterfield (Glitch oyunu, Salesforce $27.7B).
+Kullanılmış finans fikirleri: bileşik faiz ($100/ay, $5/gün, penny doubled, Rule of 72), enflasyon (×2), 50/30/20, acil durum fonu, DCA, kredi kartı faizi, %4 kuralı, %1 ücret, 401(k) eşleşmesi, FICO, %30 kira, zammın yarısı, 72 ay araba kredisi, IRA'ya 10 yıl geç başlamak (2026 limiti $7,500), HSA'yı yatırım hesabı gibi kullanmak (2026 limiti $4,400), Sosyal Güvenlik 62 vs 70 yaşında başvuru (%70 vs %124), 30 vs 15 yıllık mortgage toplam faizi ($300K, %6,5 varsayımsal: $383K vs $170K), aktif fonlar vs S&P 500 (SPIVA Year-End 2025: 15 yıl %90, 20 yıl %93), vergi iadesi = faizsiz borç (IRS 2026 ort. iade $3,276 ≈ $273/ay, W-4 stopajı), 2027 401(k) limiti artışı ($25,500, +$1,000 → 30 yılda ≈$94K varsayımsal %7; 2027 50+ catch-up $8,500, IRA $7,500 sabit), düşük faizli tasarruf hesabı (FDIC ulusal ort. %0,38, Ekim 2026; $10K'da $38 vs varsayımsal %4'te $400).
 
 **Yeni konu ekleyince bu tabloya satır ekle.**
 
